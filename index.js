@@ -16,6 +16,10 @@ app.get('/', (req, res) => {
             'firstName': "Karim",
             'lastName': "Rahimi"
         },
+        {
+            'firstName': "Gul",
+            'lastName': "Khan"
+        },
     ])
 })
 
